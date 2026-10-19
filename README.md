@@ -6,7 +6,7 @@
 ## サイトイメージ
 ![サイト画像](https://github.com/kageyamasgouri/pet/blob/1e285c89bb6bfb8598a92a5cd19f694d7bb291e1/docs/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-09-28%2019.07.43.png?raw=true)
 ## サイトURL
-https://petcare-gamma-lemon.vercel.app
+https://project-one-nu-71.vercel.app
 ## 使用技術
 Next.js 16：画面構築・アプリケーション基盤
 React 19：UIコンポーネントと画面状態の管理
